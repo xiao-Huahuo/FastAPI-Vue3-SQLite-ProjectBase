@@ -1,0 +1,10 @@
+database.db
+.env
+.venv
+.idea
+.jbeval
+.vscode
+web/node_modules
+build
+dist
+**/__pycache__
